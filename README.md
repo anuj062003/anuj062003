@@ -4,18 +4,18 @@
 </a>
 </div>
 
-<h1 align="center">Hi there, I'm [Your Name] 👋</h1>
+<h1 align="center">Hi there, I'm Anuj Kumar Yadav 👋</h1>
 <h3 align="center">A Software Developer specializing in Data Science and Modern Web Development.</h3>
 
 <p align="center">
-<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
 </a>
-<a href="https://www.google.com/search?q=https://twitter.com/YOUR_TWITTER" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter">
+<a href="https://twitter.com/YOUR_TWITTER" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter">
 </a>
 <a href="https://your_portfolio_website.com" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio">
+<img src="https://img.shields.io/badge/Portfolio-255E63%3Fstyle%3Dfor-the-badge%26logo%3Dgoogle-chrome%26logoColor%3Dwhite" alt="Portfolio">
 </a>
 </p>
 
@@ -42,35 +42,35 @@ Here are some of the technologies I'm proficient in:
 <p align="center">
 <strong>Languages:</strong><br>
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,javascript,typescript,html,css,r" />
+<img src="https://skillicons.dev/icons%3Fi%3Dpython,javascript,typescript,html,css,r" />
 </a>
 </p>
 
 <p align="center">
 <strong>Data Science & Machine Learning:</strong><br>
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,scikitlearn,pandas,numpy,jupyter" />
+<img src="https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,scikitlearn,pandas,numpy,jupyter" />
 </a>
 </p>
 
 <p align="center">
 <strong>Frontend Development:</strong><br>
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,tailwind,vite,figma" />
+<img src="https://skillicons.dev/icons%3Fi%3Dreact,nextjs,vue,tailwind,vite,figma" />
 </a>
 </p>
 
 <p align="center">
 <strong>Backend Development & Databases:</strong><br>
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dnodejs,express,django,flask,mongodb,postgres,mysql" />
+<img src="https://skillicons.dev/icons%3Fi%3Dnodejs,express,django,flask,mongodb,postgres,mysql" />
 </a>
 </p>
 
 <p align="center">
 <strong>Tools & Platforms:</strong><br>
 <a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,docker,aws,gcp,vscode,postman" />
+<img src="https://skillicons.dev/icons%3Fi%3Dgit,github,docker,aws,gcp,vscode,postman" />
 </a>
 </p>
 
@@ -111,15 +111,15 @@ Repo
 
 📊 My GitHub Stats
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3DYOUR_USERNAME%26show_icons%3Dtrue%26theme%3Dtokyonight%26hide_border%3Dtrue%26count_private%3Dtrue" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DYOUR_USERNAME%26layout%3Dcompact%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="Top Languages" />
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3DYOUR_USERNAME%26theme%3Dtokyonight%26hide_border%3Dtrue" alt="GitHub Streak" />
 </p>
 
 📫 Get In Touch
@@ -127,9 +127,9 @@ I'm always open to connecting with other developers, discussing new ideas, or co
 
 <p align="center">
 <a href="mailto:your.email@example.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
+<img src="https://img.shields.io/badge/Email-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" alt="Email">
 </a>
-<a href="https://www.google.com/search?q=https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
+<a href="https://linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn">
 </a>
 </p>
