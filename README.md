@@ -1,9 +1,9 @@
-Hi there, I'm [Your Name] 👋
-<a href="https://www.google.com/search?q=https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
+Hi there, I'm Anuj Kumar Yadav 👋
+<a href="https://www.linkedin.com/in/your-linkedin-profile/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite" alt="LinkedIn"/>
 </a>
-<a href="https://www.google.com/search?q=https://twitter.com/your-twitter-handle" target="_blank">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
+<a href="https://twitter.com/your-twitter-handle" target="_blank">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2%3Fstyle%3Dfor-the-badge%26logo%3Dtwitter%26logoColor%3Dwhite" alt="Twitter"/>
 </a>
 
 👨‍💻 About Me
@@ -33,9 +33,9 @@ Data Science & Machine Learning
 📊 My GitHub Stats
 <p align="center">
 <a href="https://github.com/your-github-username">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats" />
-<img src="https://www.google.com/search?q=https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour-github-username%26theme%3Dradical" alt="GitHub Streak" />
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Dradical" alt="Top Langs" />
+<img src="https://github-readme-stats.vercel.app/api%3Fusername%3Dyour-github-username%26show_icons%3Dtrue%26theme%3Dradical" alt="Your GitHub Stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/%3Fuser%3Dyour-github-username%26theme%3Dradical" alt="GitHub Streak" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3Dyour-github-username%26layout%3Dcompact%26theme%3Dradical" alt="Top Langs" />
 </a>
 </p>
 
